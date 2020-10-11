@@ -1,0 +1,1 @@
+Check the example CSS code where I use some class. So If you want to show a menu item only for logged out user then set the menu class "else-logged" & If you want to show a menu item only for logged in user then set the menu class "if-logged". And finaly add my given CSS to your website additional CSS box.
