@@ -1,0 +1,15 @@
+.else-logged {
+    display: block !important;
+}
+
+.logged-in .else-logged{
+    display: none !important;
+}
+
+.if-logged {
+    display: none !important;
+}
+
+.logged-in .if-logged {
+    display: block !important;
+}
